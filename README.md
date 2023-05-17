@@ -1,5 +1,5 @@
 # Myself
-Myself is a mouse-written like font with icons, crossbared I, and automatic case sensitive forms.
+Myself is a mouse-written font with icons, crossbared I, and automatic case sensitive forms.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
